@@ -12,17 +12,17 @@ Hopefully all the plugins and lsps get automatically installed.
 
 These are just the ones I added, the default neovim ones also work.
 
-`<space>gd`: go to definition
-`<space>Gd`: go to type definition
-`<space>r`: rename
-`<space>a`: activate code action under cursor
-`<space>gr`: open quick pick window with references
-`<space>lu`: update neovim plugins
-`<space>gx`: go to hyperlink
-`<space>f`: interactively search for files in subdirectories
-`<space>/`: live grep
-`<space>n`: quick pick window to switch between open files
-`<space>F`: format file
+- `<space>gd`: go to definition
+- `<space>Gd`: go to type definition
+- `<space>r`: rename
+- `<space>a`: activate code action under cursor
+- `<space>gr`: open quick pick window with references
+- `<space>lu`: update neovim plugins
+- `<space>gx`: go to hyperlink
+- `<space>f`: interactively search for files in subdirectories
+- `<space>/`: live grep
+- `<space>n`: quick pick window to switch between open files
+- `<space>F`: format file
 
 ### To configure the servers
 
